@@ -14,7 +14,7 @@
 - 📊 I work across the full analyst workflow: **collect → clean → analyse → visualise → recommend.**
 - 💡 My edge: my accounting training means I understand what the numbers *mean* for a business.
 - 🌱 Currently deepening my skills in **Machine Learning & AI** for finance.
-- 📫 Reach me: **davidajayi10@gmail.com**
+- 📫 Reach me: **ajiboyeadegboyega826@gmail.com**
 
 ---
 
